@@ -1,4 +1,18 @@
-# Arabic-toxic-language
+# Introduction
+
+This repository comprises the most comprehensive repertoire of accessible toxic language detection datasets in Arabic. We use the term "toxic language" as an umbrella concept encompassing various forms of language that have the potential to harm individuals, groups of individuals or entities. The range of harmful language may span from content that is merely unpleasant to that which is deemed entirely unacceptable and highly offensive. It encompasses a wide range of manifestations, including profanity, obscenity, abusiveness, verbal aggression, and hate speech. Those concepts can be further delineated into numerous fine-grained categories, such as racism, sexism, and threats, forming a wide array of terms.
+
+Further details on the indexed datasets can be found in the paper below. Please cite it if you find this repertoire useful.
+
+# Publication
+
+This paper is a systematic review of Arabic datasets focused on online toxic language. It thoroughly analyses around 50 available datasets and their corresponding papers considering 16 criteria across three primary dimensions: content, annotation process, and reusability. This analysis enabled us to identify existing gaps and make recommendations for future research works.
+
+Imene Bensalem, Paolo Rosso, Hanane Zitouni, "Toxic language detection: a systematic survey of Arabic datasets", submitted in Expert Systems, Preprint available in http://dx.doi.org/10.13140/RG.2.2.23466.39364
+
+This repertoire will be updated soon with further datasets and columns describing them.
+
+# Datasets Repertoire
 
 | Reference                                    | Dataset URL                                                                                                                                                                                                                               |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

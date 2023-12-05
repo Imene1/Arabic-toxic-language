@@ -6,7 +6,7 @@ Further details on the indexed datasets can be found in the paper below. Please 
 
 # Publication
 
-This paper is a systematic review of Arabic datasets focused on online toxic language. It thoroughly analyses around 50 available datasets and their corresponding papers considering 16 criteria across three primary dimensions: content, annotation process, and reusability. This analysis enabled us to identify existing gaps and make recommendations for future research works.
+The paper below is a systematic review of Arabic datasets focused on online toxic language. It thoroughly analyses around 50 available datasets and their corresponding papers considering 16 criteria across three primary dimensions: content, annotation process, and reusability. This analysis enabled us to identify existing gaps and make recommendations for future research works.
 
 Imene Bensalem, Paolo Rosso, Hanane Zitouni, "Toxic language detection: a systematic survey of Arabic datasets", submitted in Expert Systems, Preprint available in http://dx.doi.org/10.13140/RG.2.2.23466.39364
 
@@ -166,10 +166,3 @@ Shaar, S., Alam, F., Da, G., Martino, S., Nikolov, A., Zaghouani, W., Nakov, P.,
 Shannag, F., Hammo, B. H., & Faris, H. (2022). The design, construction and evaluation of annotated Arabic cyberbullying corpus. Education and Information Technologies, 27(8), 10977–11023. https://doi.org/10.1007/s10639-022-11056-x
 
 Zampieri, M., Nakov, P., Rosenthal, S., Atanasova, P., Karadzhov, G., Mubarak, H., Derczynski, L., Pitenis, Z., & Çöltekin, Ç. (2020). SemEval-2020 Task 12: Multilingual Offensive Language Identification in Social Media (OffensEval 2020). Proceedings of the Fourteenth Workshop on Semantic Evaluation, 1425–1447.
-
-
-•	Zampieri, M., Nakov, P., Rosenthal, S., Atanasova, P., Karadzhov, G., Mubarak, H., Derczynski, L., Pitenis, Z., & Çöltekin, Ç. (2020). SemEval-2020 Task 12: Multilingual Offensive Language Identification in Social Media (OffensEval 2020). Proceedings of the Fourteenth Workshop on Semantic Evaluation, 1425–1447.
-
-
-
-

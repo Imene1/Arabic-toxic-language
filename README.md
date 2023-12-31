@@ -6,7 +6,7 @@ Further details on the indexed datasets can be found in the paper below. Please 
 
 # Publication
 
-The paper below is a systematic review of Arabic datasets focused on online toxic language. It thoroughly analyses around 50 available datasets and their corresponding papers considering 16 criteria across three primary dimensions: content, annotation process, and reusability. This analysis enabled us to identify existing gaps and make recommendations for future research works.
+The paper below is a systematic review of Arabic datasets focused on online toxic language. It thoroughly analyses around 50 available datasets and their corresponding papers considering 18 criteria across four primary dimensions: availability details, content, annotation process, and reusability. This analysis enabled us to identify existing gaps and make recommendations for future research works.
 
 Imene Bensalem, Paolo Rosso, Hanane Zitouni, "Toxic language detection: a systematic survey of Arabic datasets", submitted in Expert Systems, Preprint available in http://dx.doi.org/10.13140/RG.2.2.23466.39364
 

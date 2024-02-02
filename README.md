@@ -71,9 +71,7 @@ This repertoire will be updated soon with further datasets and columns describin
 | (Raïdy   & Harmanani, 2023)                  | https://www.kaggle.com/datasets/mariajmraidy/datasets-for-sentiment-analysis-of-arabizi    |
 | (Abadji et al., 2022;   Jansen et al., 2022) | https://oscar-project.github.io/                                                                                                                                                                                                          |
 | (Awane et   al., 2021)                       | https://drive.google.com/file/d/1MCXY5eyI7myKyQQ2ZPpI1RHPZR7Emd2e/edit                                                                                                                                                                    |
-| (Riabi et al., 2023)
-
-                       | https://gitlab.inria.fr/ariabi/release-narabizi-treebank                                                                                                                                                                    |
+| (Riabi et al., 2023)                         | https://gitlab.inria.fr/ariabi/release-narabizi-treebank                                                                                                                                                                    |
 | (Mazari & Kheddar, 2023)                       | https://sourceforge.net/projects/alg-dialect-toxicity-speech                                                                                                                                                                    |
 | (Essefar et al., 2023)                       | https://drive.google.com/file/d/1MCXY5eyI7myKyQQ2ZPpI1RHPZR7Emd2e/edit                                                                                                                                                                    |
 | (Bensalem et al., 2023)                       |  https://github.com/Imene1/Arabizi-offensive-language                                                                                                                                                                   |

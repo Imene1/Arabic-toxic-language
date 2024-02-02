@@ -71,7 +71,12 @@ This repertoire will be updated soon with further datasets and columns describin
 | (Raïdy   & Harmanani, 2023)                  | https://www.kaggle.com/datasets/mariajmraidy/datasets-for-sentiment-analysis-of-arabizi    |
 | (Abadji et al., 2022;   Jansen et al., 2022) | https://oscar-project.github.io/                                                                                                                                                                                                          |
 | (Awane et   al., 2021)                       | https://drive.google.com/file/d/1MCXY5eyI7myKyQQ2ZPpI1RHPZR7Emd2e/edit                                                                                                                                                                    |
+| (Riabi et al., 2023)
 
+                       | https://gitlab.inria.fr/ariabi/release-narabizi-treebank                                                                                                                                                                    |
+| (Mazari & Kheddar, 2023)                       | https://sourceforge.net/projects/alg-dialect-toxicity-speech                                                                                                                                                                    |
+| (Essefar et al., 2023)                       | https://drive.google.com/file/d/1MCXY5eyI7myKyQQ2ZPpI1RHPZR7Emd2e/edit                                                                                                                                                                    |
+| (Bensalem et al., 2023)                       |  https://github.com/Imene1/Arabizi-offensive-language                                                                                                                                                                   |
 
 # References
 
@@ -95,11 +100,11 @@ Albadi, N., Kurdi, M., & Mishra, S. (2018). Are They Our Brothers? Analysis and 
 
 Albadi, N., Kurdi, M., & Mishra, S. (2019). Hateful people or hateful bots? Detection and characterization of bots spreading religious hatred in Arabic social media. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 1–25. https://doi.org/10.1145/3359163
 
-Albadi, N., Kurdi, M., & Mishra, S. (2022). Deradicalizing YouTube: Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos.
+Albadi, N., Kurdi, M., & Mishra, S. (2022). Deradicalizing YouTube: Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos. Proceedings of the ACM on Human-Computer Interaction, 6(CSCW2), 1–25. https://doi.org/10.1145/3555618
 
 Aldera, S., Emam, A., Al-Qurishi, M., Alrubaian, M., & Alothaim, A. (2021). Exploratory Data Analysis and Classification of a New Arabic Online Extremism Dataset. IEEE Access, 9, 161613–161626. https://doi.org/10.1109/ACCESS.2021.3132651
 
-Alduailaj, A. M., & Belghith, A. (2023). Detecting Arabic Cyberbullying Tweets Using Machine Learning. 29–42.
+Alduailaj, A. M., & Belghith, A. (2023). Detecting Arabic Cyberbullying Tweets Using Machine Learning. Machine Learning and Knowledge Extraction, 5(1), 29–42. https://doi.org/10.3390/make5010003
 
 Alhelbawy, A., Kruschwitz, U., & Poesio, M. (2016). Towards a corpus of violence acts in Arabic social media. Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016, 1627–1631.
 
@@ -109,7 +114,7 @@ Alqmase, M., Al-Muhtaseb, H., & Rabaan, H. (2021). Sports-fanaticism formalism f
 
 Alsafari, S., Sadaoui, S., & Mouhoub, M. (2020). Hate and offensive speech detection on Arabic social media. Online Social Networks and Media, 19(March), 100096. https://doi.org/10.1016/j.osnem.2020.100096
 
-Alshalan, R., & Al-Khalifa, H. (2020). Hate Speech Detection in Saudi Twittersphere: A Deep Learning Approach. 12–23.
+Alshalan, R., & Al-Khalifa, H. (2020). A Deep Learning Approach for Automatic Hate Speech Detection in the Saudi Twittersphere. Applied Sciences, 10(23), 8614. https://doi.org/10.3390/app10238614
 
 Alshehri, A., Nagoudi, E. M. B., & Abdul-Mageed, M. (2020). Understanding and Detecting Dangerous Speech in Social Media. Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools, May, 40–47.
 
@@ -117,11 +122,15 @@ Awane, W., Lahmar, E. H. Ben, & Falaki, A. El. (2021). Hate Speech in the Arab E
 
 Badri, N., Kboubi, F., & Habacha Chaibi, A. (2022). Towards Automatic Detection of Inappropriate Content in Multi-dialectic Arabic Text. Advances in Computational Collective Intelligence. ICCCI 2022. Communications in Computer and Information Science, 1653, 84–100. https://doi.org/10.1007/978-3-031-16210-7_7
 
-Boucherit, O., & Abainia, K. (2022). Offensive Language Detection in Under-resourced Algerian Dialectal Arabic Language [ArXiv preprint arXiv:2203.10024]. ArXiv Preprint ArXiv:2203.10024, 1–9. https://doi.org/https://doi.org/10.48550/arXiv.2203.10024
+Bensalem, I., Mout, M., & Rosso, P. (2023). Offensive Language Detection in Arabizi. Proceedings of ArabicNLP 2023, 423–434. https://doi.org/10.18653/v1/2023.arabicnlp-1.36
+
+Boucherit, O., & Abainia, K. (2022). Offensive Language Detection in Under-resourced Algerian Dialectal Arabic Language [ArXiv preprint arXiv:2203.10024]. Preprint ArXiv:2203.10024, 1–9. https://doi.org/https://doi.org/10.48550/arXiv.2203.10024
 
 Chowdhury, S. A., Mubarak, H., Abdelali, A., Jung, S.-G., Jansen, B. J., & Salminen, J. (2020). A Multi-Platform Arabic News Comment Dataset for Offensive Language Detection. Proceedings of the 12th Language Resources and Evaluation Conference, 6203–6212.
 
 De Smedt, T., De Pauw, G., & Van Ostaeyen, P. (2018). Automatic Detection of Online Jihadist Hate Speech (Issue February) [CLiPS Technical Report Series (CTRS)].
+
+Essefar, K., Ait Baha, H., El Mahdaouy, A., El Mekki, A., & Berrada, I. (2023). OMCD: Offensive Moroccan Comments Dataset. Language Resources and Evaluation, June. https://doi.org/10.1007/s10579-023-09663-2
 
 Fraiwan, M. (2022). Identification of markers and artificial intelligence-based classification of radical Twitter data. Applied Computing and Informatics, 20170247. https://doi.org/10.1108/aci-12-2021-0326
 
@@ -137,25 +146,27 @@ Jansen, T., Tong, Y., Zevallos, V., & Suarez, P. O. (2022). Perplexed by Quality
 
 Khairy, M., Mahmoud, T. M., Omar, A., & Abd El-Hafeez, T. (2022). Comparative Performance of Ensemble Machine Learning for Arabic Cyberbullying and Offensive Language Detection. https://doi.org/10.21203/rs.3.rs-1730412/v1
 
+Mazari, A. C., & Kheddar, H. (2023). Deep Learning-based Analysis of Algerian Dialect Dataset Targeted Hate Speech, Offensive Language and Cyberbullying. International Journal of Computing and Digital Systems, 13(1), 965–972. https://doi.org/10.12785/ijcds/130177
+
 Mohdeb, D., Laifa, M., Zerargui, F., & Benzaoui, O. (2022). Evaluating transfer learning approach for detecting Arabic anti-refugee/migrant speech on social media. Aslib Journal of Information Management, 74(6), 1070–1088. https://doi.org/10.1108/AJIM-10-2021-0293
 
 Mubarak, H., Darwish, K., & Magdy, W. (2017). Abusive Language Detection on Arabic Social Media. Proceedings of the First Workshop on Abusive Language Online, 52–56. https://doi.org/10.18653/v1/W17-3008
 
-Mubarak, H., Hassan, S., & Abdelali, A. (2021). Adult Content Detection on Arabic Twitter: Analysis and Experiments. WANLP 2021 - 6th Arabic Natural Language Processing Workshop, Proceedings of the Workshop, 136–144.
+Mubarak, H., Hassan, S., & Abdelali, A. (2021). Adult Content Detection on Arabic Twitter: Analysis and Experiments. 6th Arabic Natural Language Processing Workshop (WANLP 2021), 136–144.
 
-Mubarak, H., Hassan, S., & Chowdhury, S. A. (2022). Emojis as Anchors to Detect Arabic Offensive Language and Hate Speech. ArXiv Preprint ArXiv:2201.06723, 1–21. https://doi.org/10.1017/xxxxx
+Mubarak, H., Hassan, S., & Chowdhury, S. A. (2022). Emojis as Anchors to Detect Arabic Offensive Language and Hate Speech. Natural Language Engineering, 1–22.
 
-Mubarak, H., Rashed, A., Darwish, K., Samih, Y., & Abdelali, A. (2021). Arabic Offensive Language on Twitter: Analysis and Experiments. Proceedings Ofthe Sixth Arabic Natural Language Processing Workshop, 126–135.
+Mubarak, H., Rashed, A., Darwish, K., Samih, Y., & Abdelali, A. (2020). Arabic Offensive Language on Twitter: Analysis and Experiments. WANLP 2021 - 6th Arabic Natural Language Processing Workshop, Proceedings of the Workshop. First Appeared in ArXiv:2004.02192, 126–135. https://doi.org/https://doi.org/10.48550/arXiv.2004.02192
 
 Mulki, H., & Ghanem, B. (2021a). ArMI at FIRE 2021: Overview of the First Shared Task on Arabic Misogyny Identification. Working Notes of FIRE 2021, CEUR Workshop Proceedings Vol. 3159, 820–830.
 
-Mulki, H., & Ghanem, B. (2021b). Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language. Proceedings Ofthe Sixth Arabic Natural Language Processing Workshop, 154–163.
+Mulki, H., & Ghanem, B. (2021b). Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language. Proceedings of the Sixth Arabic Natural Language Processing Workshop, 154–163.
 
 Mulki, H., Haddad, H., Bechikh Ali, C., & Alshabani, H. (2019). L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language. Proceedings of the Third Workshop on Abusive Language Online, 111–118.
 
 Nakov, P., Alam, F., Shaar, S., Da San Martino, G., & Zhang, Y. (2021). A Second Pandemic? Analysis of Fake News About COVID-19 Vaccines in Qatar. Proceedings of the Conference Recent Advances in Natural Language Processing - Deep Learning for Natural Language Processing Methods and Applications, 1010–1021. https://doi.org/10.26615/978-954-452-072-4_114
 
-Nakov, P., Barrón-Cedeño, A., Da, G., Martino, S., Alam, F., Míguez, R., Caselli, T., Kutlu, M., Zaghouani, W., Li, C., Shaar, S., Mubarak, H., Nikolov, A., & Kartal, Y. S. (2022). Overview of the CLEF-2022 CheckThat! Lab Task 1 on Identifying Relevant Claims in Tweets under Creative Commons License Attribution 4.0 International (CC BY 4.0). Proceedings of the Working Notes of CLEF 2022 - Conference and Labs of the Evaluation Forum. CEUR Proceedings Vol. 3180.
+Nakov, P., Barrón-Cedeño, A., Da, G., Martino, S., Alam, F., Míguez, R., Caselli, T., Kutlu, M., Zaghouani, W., Li, C., Shaar, S., Mubarak, H., Nikolov, A., & Kartal, Y. S. (2022). Overview of the CLEF-2022 CheckThat! Lab Task 1 on Identifying Relevant Claims in Tweets. Proceedings of the Working Notes of CLEF 2022 - Conference and Labs of the Evaluation Forum. CEUR Proceedings Vol. 3180.
 
 Obeidat, R., Gharaibeh, M., Abdullah, M., & Alharahsheh, Y. (2022). Multi-label multi-class COVID-19 Arabic Twitter dataset with fine-grained misinformation and situational information annotations. PeerJ Computer Science, 8, e1151. https://doi.org/10.7717/peerj-cs.1151
 
@@ -165,10 +176,13 @@ Ousidhoum, N. D., Zhao, X., Fang, T., Song, Y., & Yeung, D. Y. (2021). Probing T
 
 Raïdy, M., & Harmanani, H. (2023). A Deep Learning Approach for Sentiment and Emotional Analysis of Lebanese Arabizi Twitter Data. In ITNG 2023 20th International Conference on Information Technology-New Generations, Advances in Intelligent Systems and Computing 1445 (pp. 27–35). https://doi.org/10.1007/978-3-031-28332-1_4
 
-Röttger, P., Seelawi, H., Nozza, D., Talat, Z., & Vidgen, B. (2022). MULTILINGUAL HATE CHECK : Functional Tests for Multilingual Hate Speech Detection Models. Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), 154–169.
+Riabi, A., Mahamdi, M., & Seddah, D. (2023). Enriching the NArabizi Treebank : A Multifaceted Approach to Supporting an Under-Resourced Language. Proceedings of the 17th Linguistic Annotation Workshop (LAW-XVII), 266–278.
+
+Röttger, P., Seelawi, H., Nozza, D., Talat, Z., & Vidgen, B. (2022). Multilingual HateCheck: Functional Tests for Multilingual Hate Speech Detection Models. Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), 154–169.
 
 Shaar, S., Alam, F., Da, G., Martino, S., Nikolov, A., Zaghouani, W., Nakov, P., & Feldman, A. (2021). Findings of the NLP4IF-2021 Shared Tasks on Fighting the COVID-19 Infodemic and Censorship Detection. Proceedings Ofthe 4th NLP4IFWorkshop on NLP for Internet Freedom, 82–92.
 
 Shannag, F., Hammo, B. H., & Faris, H. (2022). The design, construction and evaluation of annotated Arabic cyberbullying corpus. Education and Information Technologies, 27(8), 10977–11023. https://doi.org/10.1007/s10639-022-11056-x
 
 Zampieri, M., Nakov, P., Rosenthal, S., Atanasova, P., Karadzhov, G., Mubarak, H., Derczynski, L., Pitenis, Z., & Çöltekin, Ç. (2020). SemEval-2020 Task 12: Multilingual Offensive Language Identification in Social Media (OffensEval 2020). Proceedings of the Fourteenth Workshop on Semantic Evaluation, 1425–1447.
+
